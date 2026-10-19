@@ -181,5 +181,179 @@
         "Add supplier or courier verticals only when insured/licensed and customer-backed"
       ]
     }
-  ]
+  ],
+  "launch_plan": {
+    "created": "2026-10-18",
+    "target_monthly_gross": 10000,
+    "annualized_run_rate": 120000,
+    "status": "planning assumptions; no guaranteed sales",
+    "segments": [
+      "commercial",
+      "government"
+    ],
+    "monthly_mix": [
+      {
+        "category": "websites",
+        "quantity": 2,
+        "unit_price": 2500,
+        "revenue": 5000
+      },
+      {
+        "category": "software_automation",
+        "quantity": 1,
+        "unit_price": 2000,
+        "revenue": 2000
+      },
+      {
+        "category": "recurring",
+        "quantity": 10,
+        "unit_price": 150,
+        "revenue": 1500
+      },
+      {
+        "category": "it_cyber",
+        "quantity": 1,
+        "unit_price": 1000,
+        "revenue": 1000
+      },
+      {
+        "category": "govtech_training",
+        "quantity": 1,
+        "unit_price": 500,
+        "revenue": 500
+      }
+    ],
+    "packages": [
+      {
+        "name": "Digital Starter",
+        "price": 1500,
+        "scope": "Up to 5 responsive pages, contact form, basic SEO, analytics, launch"
+      },
+      {
+        "name": "Business Growth",
+        "price": 3500,
+        "scope": "Up to 10 pages, lead capture, booking or quotes, analytics, one integration"
+      },
+      {
+        "name": "Software MVP",
+        "starting_price": 6000,
+        "scope": "Discovery, scoped core features, testing, deployment, documentation"
+      },
+      {
+        "name": "AI Automation",
+        "starting_price": 2000,
+        "scope": "One scoped workflow and integration"
+      },
+      {
+        "name": "Website Care",
+        "monthly_price": 149,
+        "scope": "Updates, backup monitoring and limited support; written SLA"
+      },
+      {
+        "name": "Business Care",
+        "monthly_price": 299,
+        "scope": "Website care plus agreed content and support allowance"
+      },
+      {
+        "name": "Managed IT",
+        "monthly_starting_price": 500,
+        "scope": "Defined devices, support hours, response terms"
+      }
+    ],
+    "roles": [
+      {
+        "role": "Founder/CEO/CTO",
+        "responsible": "Sales, solution architecture, pricing, proposal approval, finance",
+        "status": "active"
+      },
+      {
+        "role": "Admin coordinator",
+        "responsible": "CRM, scheduling, invoicing, vendor registrations",
+        "status": "proposed; conditional staffing"
+      },
+      {
+        "role": "Technical delivery lead",
+        "responsible": "Quality assurance, IT tickets, technical implementation",
+        "status": "proposed; qualified staff only"
+      },
+      {
+        "role": "Project subcontractor",
+        "responsible": "Overflow design or development work",
+        "status": "hire only against funded signed projects"
+      },
+      {
+        "role": "Logistics operations lead",
+        "responsible": "Amazon routes, driver compliance, route profitability",
+        "status": "proposed separate cost center"
+      }
+    ],
+    "website_pages": [
+      "Home",
+      "Web Development",
+      "Custom Software",
+      "AI Automation",
+      "Cybersecurity",
+      "Managed IT",
+      "GovTech",
+      "Training",
+      "Portfolio",
+      "Pricing & Packages",
+      "Request a Quote",
+      "Client Portal"
+    ],
+    "app_features": [
+      "Lead CRM",
+      "Commercial opportunity pipeline",
+      "GovCon solicitation tracker",
+      "Bid qualification scoring",
+      "Deadlines and compliance checklist",
+      "Proposal builder",
+      "Project milestones and assignments",
+      "Invoices and cash collections",
+      "Revenue and costs by division",
+      "Contract margin and forecast",
+      "Roles and permission controls"
+    ],
+    "milestones": [
+      {
+        "days": "1-30",
+        "actions": [
+          "Publish packages and portfolio demos",
+          "Create CRM and client intake",
+          "Register and monitor CCSD/Nevada procurement",
+          "Prospect 10 qualified businesses per weekday",
+          "Qualify bids by scope, cash and staffing"
+        ]
+      },
+      {
+        "days": "31-60",
+        "actions": [
+          "Close and deliver first website projects",
+          "Offer care plans after launch",
+          "Submit compliant small-scope proposals",
+          "Record time and costs per project",
+          "Create reusable project templates"
+        ]
+      },
+      {
+        "days": "61-90",
+        "actions": [
+          "Build maintenance client base",
+          "Pilot a paid automation package",
+          "Review sales funnel and actual margins",
+          "Scale staffing only after funded contracts",
+          "Assess SaaS pilot customer interest"
+        ]
+      }
+    ],
+    "profit_model": {
+      "gross_revenue": 10000,
+      "estimated_direct_cost_rate": 0.3,
+      "direct_costs": 3000,
+      "contribution": 7000,
+      "example_overhead": 1500,
+      "operating_profit_before_owner_pay_and_taxes": 5500,
+      "notes": "Hypothetical, not booked; excludes owner labor unless explicitly allocated; taxes, financing and other expenses not modeled."
+    }
+  }
 }
