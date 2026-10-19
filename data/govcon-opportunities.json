@@ -76,5 +76,110 @@
       "next_action": "Identify prime contractor small business contacts and subcontract packages",
       "is_live_bid": false
     }
+  ],
+  "contacts": [
+    {
+      "agency": "CCSD",
+      "name": "Lisa Smith",
+      "email": "smithlm2@nv.ccsd.net"
+    },
+    {
+      "agency": "CCSD",
+      "name": "Supplier Open House contact",
+      "email": "millies1@nv.ccsd.net"
+    }
+  ],
+  "followups": [
+    {
+      "task": "CCSD supplier open house RSVP",
+      "status": "email sent; awaiting confirmation",
+      "date": "2026-10-18",
+      "next": "Confirm date and link, then register DemandStar/Bonfire"
+    }
+  ],
+  "business_units": [
+    {
+      "name": "IT support and managed services",
+      "stage": "active capability",
+      "owner_role": "Founder / technical lead",
+      "manager_role": "IT support lead when staffed",
+      "revenue_model": "hourly projects or monthly retainer",
+      "sample_monthly_revenue": 2000,
+      "sample_direct_costs": 500
+    },
+    {
+      "name": "Software, automation and GovTech",
+      "stage": "active capability; pipeline development",
+      "owner_role": "Founder / CTO",
+      "manager_role": "Project lead when staffed",
+      "revenue_model": "fixed-fee projects or recurring SaaS",
+      "sample_monthly_revenue": 3000,
+      "sample_direct_costs": 900
+    },
+    {
+      "name": "Amazon Hub Delivery (one hub, own truck)",
+      "stage": "onboarding / route volume unconfirmed",
+      "owner_role": "Founder / compliance and finance",
+      "manager_role": "Mother proposed operations oversight; wife proposed approved driver",
+      "revenue_model": "$2 per package; sample 50/day x 26 days",
+      "sample_monthly_revenue": 2600,
+      "sample_direct_costs": 1800
+    },
+    {
+      "name": "Part-time IT instruction",
+      "stage": "planned, start date unconfirmed",
+      "owner_role": "Founder / instructor",
+      "manager_role": "Founder",
+      "revenue_model": "$30/hour x 19 hours/week",
+      "sample_monthly_revenue": 2470,
+      "sample_direct_costs": 0
+    },
+    {
+      "name": "Medical courier and supplies",
+      "stage": "research; not active",
+      "owner_role": "Founder / partnerships",
+      "manager_role": "Mother proposed operations manager",
+      "revenue_model": "contract-dependent",
+      "sample_monthly_revenue": null,
+      "sample_direct_costs": null
+    },
+    {
+      "name": "Staffing and logistics expansion",
+      "stage": "planning; licensing and funding needed",
+      "owner_role": "Founder / licensing and sales",
+      "manager_role": "Mother proposed operations manager",
+      "revenue_model": "contract-dependent",
+      "sample_monthly_revenue": null,
+      "sample_direct_costs": null
+    }
+  ],
+  "financial_disclaimer": "Illustrative planning assumptions, not actual bookings, earnings, margins or awards. Direct costs are placeholders and exclude some overhead, payroll taxes, income taxes, and shared expenses. Teaching is personal gross compensation, not necessarily company revenue.",
+  "growth_plan": [
+    {
+      "period": "0-30 days",
+      "actions": [
+        "CCSD DemandStar and Bonfire registration",
+        "Build capability statement and vendor packet",
+        "Complete one Amazon Hub onboarding and route economics",
+        "Identify 5 small IT or training bids"
+      ]
+    },
+    {
+      "period": "31-60 days",
+      "actions": [
+        "Bid only on compliant small-scope opportunities",
+        "Obtain subcontracting partner quotes and references",
+        "Track driver route profitability",
+        "Develop repeatable IT training and automation offers"
+      ]
+    },
+    {
+      "period": "61-90 days",
+      "actions": [
+        "Review actual cash margin by service line",
+        "Expand only after repeatable contracts and funded staffing",
+        "Add supplier or courier verticals only when insured/licensed and customer-backed"
+      ]
+    }
   ]
 }
