@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-18",
+  "organization": "DivineGuard IT Services LLC",
+  "certifications": [
+    {
+      "name": "Nevada Local Emerging Small Business",
+      "status": "confirmed by CCSD invitation email",
+      "verification": "retain official certification letter and expiry date"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "CCSD-SUPPLIER-2026",
+      "agency": "Clark County School District",
+      "title": "Supplier onboarding and open house",
+      "status": "invited; RSVP date pending flyer",
+      "type": "supplier onboarding",
+      "url": "https://www.demandstar.com/app/registration",
+      "submission": "https://ccsd.bonfirehub.com/",
+      "next_action": "Register CCSD as free DemandStar agency; review Bonfire; confirm open house date and RSVP",
+      "is_live_bid": false
+    },
+    {
+      "id": "CCSD-IT",
+      "agency": "Clark County School District",
+      "title": "IT help desk and endpoint support",
+      "status": "target category; no verified open solicitation",
+      "type": "target category",
+      "next_action": "Watch matching commodity codes and assess staffing capacity",
+      "is_live_bid": false
+    },
+    {
+      "id": "CCSD-TRAIN",
+      "agency": "Clark County School District",
+      "title": "Technical training and workforce development",
+      "status": "target category; no verified open solicitation",
+      "type": "target category",
+      "next_action": "Prepare short course capability statement",
+      "is_live_bid": false
+    },
+    {
+      "id": "CCSD-SOFT",
+      "agency": "Clark County School District",
+      "title": "Small software and automation projects",
+      "status": "target category; no verified open solicitation",
+      "type": "target category",
+      "next_action": "Prepare portfolio, references, and fixed-scope offers",
+      "is_live_bid": false
+    },
+    {
+      "id": "CCSD-SUPPLY",
+      "agency": "Clark County School District",
+      "title": "IT accessories and computer supplies",
+      "status": "target category; no verified open solicitation",
+      "type": "target category",
+      "next_action": "Verify distributor pricing, warranties and working capital",
+      "is_live_bid": false
+    },
+    {
+      "id": "NV-IT",
+      "agency": "State of Nevada",
+      "title": "IT support and small technology services",
+      "status": "target category; no verified open solicitation",
+      "type": "target category",
+      "url": "https://purchasing.nv.gov/vendors/vendorsregistration/",
+      "next_action": "Register NevadaEPro and configure categories",
+      "is_live_bid": false
+    },
+    {
+      "id": "FED-SUB",
+      "agency": "Federal primes",
+      "title": "Subcontracted help desk, software and documentation",
+      "status": "target category; no verified open solicitation",
+      "type": "subcontracting",
+      "url": "https://sam.gov/content/opportunities",
+      "next_action": "Identify prime contractor small business contacts and subcontract packages",
+      "is_live_bid": false
+    }
+  ]
+}
