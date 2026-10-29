@@ -23,3 +23,23 @@
   from = "/ai"
   to = "/ai.html"
   status = 301
+
+[[redirects]]
+  from = "/partners"
+  to = "/partners.html"
+  status = 301
+
+[[redirects]]
+  from = "/creator"
+  to = "/creator.html"
+  status = 301
+
+[[redirects]]
+  from = "/media-events"
+  to = "/creator.html"
+  status = 301
+
+[[redirects]]
+  from = "/media-and-events"
+  to = "/creator.html"
+  status = 301
